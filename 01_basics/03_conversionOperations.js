@@ -59,4 +59,7 @@ let gameCounter = 100
 ++gameCounter;
 console.log(gameCounter);
 
+// link to study 
+// https://262.ecma-international.org/14.0/index.html#sec-abstract-operations
+
 
